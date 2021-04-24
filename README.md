@@ -25,6 +25,12 @@ My goal was to follow server and routing structure setups featured in in-class a
 
 For challenges, i would have to say getting the API and HTML routes were quite the challenge to get it working properly through the localhost. Although the application deployed successfully through Heroku, it is still required to get the application to run properly in a local setting. 
 
+## Screenshots
+
+![Screenshot](https://i.ibb.co/8cLLwsw/jiefiejf.png)
+
+![Screenshot](https://i.ibb.co/L822DyQ/hwhd.png)
+
 ## License
 
 [Apache 2.0](https://opensource.org/licenses/Apache2.0)
