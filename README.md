@@ -1,7 +1,7 @@
 # 11-Note-Taker-App
 Assignement 11: Note Taking Application using Express JS
 
-* [Live Demo](https://notetakerapp11.herokuapp.com/)
+* [Live Application Demo](https://notetakerapp11.herokuapp.com/)
 
 ## Overview
 
